@@ -1,0 +1,3 @@
+[submodule "function"]
+	path = function
+	url = https://github.com/awslabs/aws-cloudfront-samples.git
